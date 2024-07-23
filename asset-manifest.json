@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/figma-to-react/static/css/main.91b316c7.css",
+    "main.js": "/figma-to-react/static/js/main.58d5fe0c.js",
+    "static/js/453.9c1d46ec.chunk.js": "/figma-to-react/static/js/453.9c1d46ec.chunk.js",
+    "index.html": "/figma-to-react/index.html",
+    "main.91b316c7.css.map": "/figma-to-react/static/css/main.91b316c7.css.map",
+    "main.58d5fe0c.js.map": "/figma-to-react/static/js/main.58d5fe0c.js.map",
+    "453.9c1d46ec.chunk.js.map": "/figma-to-react/static/js/453.9c1d46ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b316c7.css",
+    "static/js/main.58d5fe0c.js"
+  ]
+}
